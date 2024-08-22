@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabarinathan N</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabarinathann&label=Profile%20views&color=0e75b6&style=flat" alt="sabarinathann" /> </p>
 <img src="https://t3.ftcdn.net/jpg/06/01/17/18/240_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg"/>
