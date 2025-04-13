@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabarinathann&label=Profile%20views&color=0e75b6&style=flat" alt="sabarinathann" /> </p>
 <img src="https://t3.ftcdn.net/jpg/06/01/17/18/240_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg"/>
-- 🔭 I’m currently working on <b>Verticurl</b>
+- 🔭 I’m currently working on <b>Aevevo Technology</b>
 
 - 🌱 I’m currently learning **Mongodb, node**
 
